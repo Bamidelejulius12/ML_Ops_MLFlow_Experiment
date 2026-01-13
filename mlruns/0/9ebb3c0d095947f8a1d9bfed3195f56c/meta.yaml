@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ebb3c0d095947f8a1d9bfed3195f56c/artifacts
+end_time: 1768332758168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ebb3c0d095947f8a1d9bfed3195f56c
+run_name: monumental-roo-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768332756574
+status: 3
+tags: []
+user_id: HP

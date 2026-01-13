@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/202566654574220954/7f9f21af771041cdb8ba6456e41cf421/artifacts
+end_time: 1768333941332
+entry_point_name: ''
+experiment_id: '202566654574220954'
+lifecycle_stage: active
+run_id: 7f9f21af771041cdb8ba6456e41cf421
+run_name: welcoming-skink-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768333892251
+status: 3
+tags: []
+user_id: HP

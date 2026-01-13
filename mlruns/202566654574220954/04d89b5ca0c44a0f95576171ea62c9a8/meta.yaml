@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/202566654574220954/04d89b5ca0c44a0f95576171ea62c9a8/artifacts
+end_time: 1768343216324
+entry_point_name: ''
+experiment_id: '202566654574220954'
+lifecycle_stage: active
+run_id: 04d89b5ca0c44a0f95576171ea62c9a8
+run_name: amusing-snail-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768343190948
+status: 3
+tags: []
+user_id: HP

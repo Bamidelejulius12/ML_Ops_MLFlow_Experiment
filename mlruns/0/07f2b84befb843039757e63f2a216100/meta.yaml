@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/07f2b84befb843039757e63f2a216100/artifacts
+end_time: 1768331674764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07f2b84befb843039757e63f2a216100
+run_name: able-jay-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768331673481
+status: 4
+tags: []
+user_id: HP
